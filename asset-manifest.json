@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.bbab9d1a.css",
-    "main.js": "/static/js/main.93b2d124.js",
-    "static/js/787.00b8a337.chunk.js": "/static/js/787.00b8a337.chunk.js",
+    "main.css": "/static/css/main.b67d08ac.css",
+    "main.js": "/static/js/main.f314dfb4.js",
     "static/media/agenda.pdf": "/static/media/agenda.be480f9ef250fa0f91bb.pdf",
     "static/media/electron-project-background.jpg": "/static/media/electron-project-background.16ad626443257c574299.jpg",
     "static/media/role-in-project.jpg": "/static/media/role-in-project.59370fccff06130f3a2e.jpg",
     "static/media/ipto-logo.png": "/static/media/ipto-logo.4b887480cbb405ae73f8.png",
-    "static/media/event-slider-slim.jpeg": "/static/media/event-slider-slim.701abb7db6ebb85777e7.jpeg",
+    "static/media/energy-crisis.jpeg": "/static/media/energy-crisis.701abb7db6ebb85777e7.jpeg",
     "static/media/hackathon.jpg": "/static/media/hackathon.866b5760ae652e1609c9.jpg",
     "static/media/prizes.png": "/static/media/prizes.4a6aa86bc77129b421a0.png",
     "static/media/eazi-logo.jpeg": "/static/media/eazi-logo.974a5c6052e4d6abbd72.jpeg",
@@ -42,12 +41,11 @@
     "static/media/azeriqaz-logo.jpeg": "/static/media/azeriqaz-logo.5c287088506903f2bdad.jpeg",
     "index.html": "/index.html",
     "static/media/icon-down-arrow.svg": "/static/media/icon-down-arrow.600ee40a8482d49a28d3.svg",
-    "main.bbab9d1a.css.map": "/static/css/main.bbab9d1a.css.map",
-    "main.93b2d124.js.map": "/static/js/main.93b2d124.js.map",
-    "787.00b8a337.chunk.js.map": "/static/js/787.00b8a337.chunk.js.map"
+    "main.b67d08ac.css.map": "/static/css/main.b67d08ac.css.map",
+    "main.f314dfb4.js.map": "/static/js/main.f314dfb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbab9d1a.css",
-    "static/js/main.93b2d124.js"
+    "static/css/main.b67d08ac.css",
+    "static/js/main.f314dfb4.js"
   ]
 }
